@@ -1,0 +1,25 @@
+body{
+    cursor: crosshair;
+
+  }
+
+#orange_section {
+    color: magenta;
+    margin-left: 40px;
+    background-color: black;
+}
+
+#black_section{
+  color: white;
+  background-color: black;
+}
+
+#pink_section{
+  color: magenta;
+  background-color: black;
+}
+
+#green_section{
+  color: lime;
+  background-color: black;
+}
